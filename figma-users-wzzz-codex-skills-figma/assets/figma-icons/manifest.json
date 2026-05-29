@@ -1,0 +1,114 @@
+{
+  "logo": {
+    "id": "I10173:308976;9274:345784;17949:425706",
+    "file": "assets/figma-icons/logo.svg"
+  },
+  "enterprise": {
+    "id": "I10173:308976;9271:345881;8985:616546",
+    "file": "assets/figma-icons/enterprise.svg"
+  },
+  "app": {
+    "id": "I10173:308976;9271:345881;9271:359384;7126:12234",
+    "file": "assets/figma-icons/app.svg"
+  },
+  "vip": {
+    "id": "I10173:308976;9271:345881;9161:329249",
+    "file": "assets/figma-icons/vip.svg"
+  },
+  "gift": {
+    "id": "I10173:308976;9271:345881;9274:337036",
+    "file": "assets/figma-icons/gift.svg"
+  },
+  "avatar": {
+    "id": "I10173:308976;9271:345881;2515:16233",
+    "file": "assets/figma-icons/avatar.svg"
+  },
+  "nav_create": {
+    "id": "I10173:308978;2494:47107;2494:47013",
+    "file": "assets/figma-icons/nav_create.svg"
+  },
+  "nav_home": {
+    "id": "I10173:308978;2494:47110;9189:337048",
+    "file": "assets/figma-icons/nav_home.svg"
+  },
+  "nav_mine": {
+    "id": "I10173:308978;2494:47112;9189:337048",
+    "file": "assets/figma-icons/nav_mine.svg"
+  },
+  "nav_discover": {
+    "id": "I10173:308978;6840:530136;9189:337048",
+    "file": "assets/figma-icons/nav_discover.svg"
+  },
+  "nav_digital": {
+    "id": "I10173:308978;2494:47113;9189:337048",
+    "file": "assets/figma-icons/nav_digital.svg"
+  },
+  "nav_voice": {
+    "id": "I10173:308978;2494:47114;9189:337048",
+    "file": "assets/figma-icons/nav_voice.svg"
+  },
+  "nav_template": {
+    "id": "I10173:308978;2494:47116;9189:337048",
+    "file": "assets/figma-icons/nav_template.svg"
+  },
+  "nav_hot": {
+    "id": "I10173:308978;2494:47118;9189:337048",
+    "file": "assets/figma-icons/nav_hot.svg"
+  },
+  "nav_idea": {
+    "id": "I10173:308978;20793:433486;9189:337048",
+    "file": "assets/figma-icons/nav_idea.svg"
+  },
+  "nav_lab": {
+    "id": "I10173:308978;2494:47119;9189:337048",
+    "file": "assets/figma-icons/nav_lab.svg"
+  },
+  "nav_team": {
+    "id": "I10173:308978;2494:47120;9189:338698",
+    "file": "assets/figma-icons/nav_team.svg"
+  },
+  "api": {
+    "id": "I10173:308978;15315:365874",
+    "file": "assets/figma-icons/api.svg"
+  },
+  "service": {
+    "id": "I10173:308978;4255:532222",
+    "file": "assets/figma-icons/service.svg"
+  },
+  "search": {
+    "id": "10173:316231",
+    "file": "assets/figma-icons/search.svg"
+  },
+  "select_down": {
+    "id": "I10173:318942;5524:52071",
+    "file": "assets/figma-icons/select_down.svg"
+  },
+  "calendar": {
+    "id": "10227:319979",
+    "file": "assets/figma-icons/calendar.svg"
+  },
+  "more_action": {
+    "id": "10269:320028",
+    "file": "assets/figma-icons/more_action.svg"
+  },
+  "page_down": {
+    "id": "I10269:320456;5983:3891;5980:6044;5524:52071",
+    "file": "assets/figma-icons/page_down.svg"
+  },
+  "page_left": {
+    "id": "I10269:320456;5971:5617;7069:4405;5142:3957",
+    "file": "assets/figma-icons/page_left.svg"
+  },
+  "page_right": {
+    "id": "I10269:320456;5971:5603;7069:4405;5142:3957",
+    "file": "assets/figma-icons/page_right.svg"
+  },
+  "page_more": {
+    "id": "I10269:320456;5971:5611",
+    "file": "assets/figma-icons/page_more.svg"
+  },
+  "play": {
+    "id": "10269:320012",
+    "file": "assets/figma-icons/play.svg"
+  }
+}
